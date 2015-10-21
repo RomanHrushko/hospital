@@ -1,0 +1,44 @@
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\bin\Debug\auto.exe.config
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.exe
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.pdb
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\bin\Debug\auto.exe
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\bin\Debug\auto.pdb
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Form1.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Form2.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Form3.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Form4.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Form5.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Form6.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Form7.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\auto.Properties.Resources.resources
+D:\Програмна інженерія\3-курс\2 - семестр\База даних\Курсова робота\FoodStore\auto\obj\Debug\FoodStore.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\FoodStore\auto\bin\Debug\auto.exe.config
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.exe
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.pdb
+C:\Users\Roman\Desktop\FoodStore\auto\bin\Debug\auto.exe
+C:\Users\Roman\Desktop\FoodStore\auto\bin\Debug\auto.pdb
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\FoodStore.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Form1.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Form2.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Form3.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Form4.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Form5.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Form6.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Form7.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\auto.Properties.Resources.resources
+C:\Users\Roman\Desktop\FoodStore\auto\obj\Debug\FoodStore.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\Hospital\auto\bin\Debug\auto.exe.config
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.exe
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.pdb
+C:\Users\Roman\Desktop\Hospital\auto\bin\Debug\auto.exe
+C:\Users\Roman\Desktop\Hospital\auto\bin\Debug\auto.pdb
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\FoodStore.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Form1.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Form2.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Form3.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Form4.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Form5.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Form6.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Form7.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\auto.Properties.Resources.resources
+C:\Users\Roman\Desktop\Hospital\auto\obj\Debug\FoodStore.csproj.GenerateResource.Cache
